@@ -22,6 +22,7 @@ Here's a walkthrough of implemented user stories:
 
 <img src='![](https://imgur.com/a/qgJF20B.gif)' 
 title= 'Video Walkthrough' width='' alt='Video Walkthrough' />
+https://imgur.com/a/qgJF20B.gif
 
 GIF created with KAP
 <!-- Recommended tools:
